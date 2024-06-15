@@ -1,4 +1,4 @@
-# 兆能ZN-M2 openwrt 无wifi 无USB 弱电箱专用
+# 兆能ZN-M2 openwrt 无wifi 弱电箱专用
 自用款固件 弱电箱专用 想用passwall 推荐内存512M以上 内核版本 4.4.60
 
 不包含自己用不上的wifi和USB支持 集成了少量自己用的上的软件
@@ -14,3 +14,5 @@
 uboot刷机用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.ubi`
 
 openwrt系统升级用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.ubi`
+
+原作者地址 https://github.com/openwrt-fork/zn-m2-openwrt-build/releases
