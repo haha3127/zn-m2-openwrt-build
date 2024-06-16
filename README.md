@@ -4,6 +4,7 @@
 根据需求，在原作者的基础上增加了usb支持
 
 感谢大佬 sdf8057 的贡献 https://github.com/sdf8057/ipq6000
+
 感谢原作者相关贡献 原作者地址 https://github.com/openwrt-fork/zn-m2-openwrt-build/releases
 
 控制台地址`192.168.11.1` 默认密码`password`
