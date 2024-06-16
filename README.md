@@ -13,4 +13,4 @@ uboot刷机用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.ubi`
 
 openwrt系统升级用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.ubi`
 
-
+高可用简单配置参考：https://www.right.com.cn/forum/thread-4058779-1-1.html
